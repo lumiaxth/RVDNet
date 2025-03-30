@@ -25,7 +25,7 @@ Please prepare the data before testing and training by modifying and runing scri
 ```bash
 cd code/run_scripts
 ```
-(1) Train on SnowScape:
+Train on SnowScape:
 
 ```bash
 cd code/RUN_SCRIPTS/
@@ -34,7 +34,6 @@ bash train_snow_dvd_noLSTM.sh
 
 ### Testing
 
-(1) Test:
 ```bash
 cd code/RUN_SCRIPTS/
 bash test_dvd.sh
