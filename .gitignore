@@ -1,0 +1,11 @@
+__pycache__
+*log/
+./out
+*.pt
+*.tar
+*.jpg
+*.png
+*.out
+*.pdf
+*.json
+*.log
