@@ -16,6 +16,9 @@ cd code
 conda install --file requirements.txt
 ```
 
+### Preparing dataset
+Please prepare the data before testing and training by modifying and runing scripts/gen_json_ntu.py and scripts/gen_json_ntu_real.py.
+
 ### Training
 **Please first modify bash files accordingly with your data folder path.**
 
