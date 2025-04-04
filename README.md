@@ -19,6 +19,9 @@ conda install --file requirements.txt
 ### Preparing dataset
 Please prepare the data before testing and training by modifying and runing scripts/gen_json_ntu.py and scripts/gen_json_ntu_real.py.
 
+### Dataset : SnowScape
+BaiduCloud link: https://pan.baidu.com/s/1i4kPBee-S4OMyIhwmNW6-w?pwd=h6um password: h6um
+
 ### Training
 **Please first modify bash files accordingly with your data folder path.**
 
